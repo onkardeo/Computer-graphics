@@ -4,7 +4,7 @@
 //
 // Main class for lighting/shading/texturing assignment.
 //
-// Contributor : Kapil Dole
+// Contributor : Onkar Deorukhkar
 //
 
 import java.awt.*;
