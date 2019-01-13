@@ -4,13 +4,13 @@
  * Version: 1 Terrin.java, v 1.1 2016/21/05 14:50:40 
  *   
  * Revisions: 
- *     Revision 1.1 Kapil 2016/21/05 14:50:40 
+ *     Revision 1.1Onkar Deorukhkar 2016/21/05 14:50:40 
  */
 
 /**
  * This class stores vertices values for the terrin which we got from the blender.
  *
- * @author Kapil Dole
+ * @author Onkar Deorukhkar
  */
 public class Terrin {
 	float[] terrinVertices = { -4.448622f, 1.406701f, 3.581350f, -4.448622f, 1.387965f, 3.581350f, -4.448622f,
