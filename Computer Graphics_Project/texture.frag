@@ -2,7 +2,7 @@
 
 // Texture mapping fragment shader
 //
-// Contributor:  Kapil Dole
+// Contributor:  Onkar Deorukhkar
 
 // INCOMING DATA
 in vec2 texture_Coord;
