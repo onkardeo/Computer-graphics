@@ -4,7 +4,7 @@
 //  Routines for shape-drawing functions.
 //
 //  @author Vasudev
-//  Contributor: Kapil Dole
+//  Contributor: Onkar Deorukhkar
 //
 
 public class shapes extends simpleShape {
