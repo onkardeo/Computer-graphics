@@ -2,7 +2,7 @@
 
 // Phong vertex shader
 //
-// Contributor:  Kapil Dole
+// Contributor:  Onkar Deorukhkar
 
 // INCOMING DATA
 
