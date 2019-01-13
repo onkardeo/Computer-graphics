@@ -2,7 +2,7 @@
 
 // Phong fragment shader
 //
-// Contributor:  Kapil Dole
+// Contributor:  Onkar Deorukhkar
 
 // INCOMING DATA
 uniform vec4 ambient_Material_Color_Tree;
