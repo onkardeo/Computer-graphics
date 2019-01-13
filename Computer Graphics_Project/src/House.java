@@ -4,13 +4,13 @@
  * Version: 1 House.java, v 1.1 2016/21/05 14:50:40 
  *   
  * Revisions: 
- *     Revision 1.1 Kapil 2016/21/05 14:50:40 
+ *     Revision 1.1 Onkar Deorukhkar 2016/21/05 14:50:40 
  */
 
 /**
  * This class stores vertices values for the house which we got from the blender.
  *
- * @author Kapil Dole
+ * @author Onkar Deorukhkar
  */
 public class House {
 	float[] houseVertices = { -5.360049f, 1.226250f, 1.749504f, -5.360049f, 3.226250f, 1.749504f, -5.360049f, 1.226250f,
