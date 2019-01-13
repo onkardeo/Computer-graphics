@@ -4,13 +4,13 @@
  * Version: 1 Tree.java, v 1.1 2016/21/05 14:50:40 
  *   
  * Revisions: 
- *     Revision 1.1 Kapil 2016/21/05 14:50:40 
+ *     Revision 1.1 Onkar Deorukhkar 2016/21/05 14:50:40 
  */
 
 /**
  * This class stores vertices values for the tree which we got from the blender.
  *
- * @author Kapil Dole
+ * @author Onkar Deorukhkar
  */
 public class Tree {
 	float[] treeVertices = { 3.735394f, -0.120628f, 0.295681f, 4.459001f, 0.432153f, 0.821406f, 3.459006f,
