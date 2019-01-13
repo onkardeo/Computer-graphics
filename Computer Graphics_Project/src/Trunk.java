@@ -4,13 +4,13 @@
  * Version: 1 Trunk.java, v 1.1 2016/21/05 14:50:40 
  *   
  * Revisions: 
- *     Revision 1.1 Kapil 2016/21/05 14:50:40 
+ *     Revision 1.1 Onkar Deorukhkar 2016/21/05 14:50:40 
  */
 
 /**
  * This class stores vertices values for the trunk which we got from the blender.
  *
- * @author Kapil Dole
+ * @author Onkar Deorukhkar
  */
 public class Trunk {
 	float[] trunkVertices = { 0.628744f, 0.318666f, -0.267482f, 0.628744f, 2.318666f, -0.267482f, 0.677516f, 0.318666f,
