@@ -7,7 +7,7 @@
 // Of note is the protected method addTriangles() which is what students
 // should use to define their tessellations.
 //
-// Contributor: Kapil Dole
+// Contributor: Onkar Deorukhkar
 //
 
 import java.awt.*;
