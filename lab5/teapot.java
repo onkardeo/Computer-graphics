@@ -5,7 +5,7 @@
 //
 //  Students should not be modifying this file.
 //
-//  @author Vasudev
+//  @author Onkar Deorukhkar
 //
 
 public class teapot extends simpleShape
