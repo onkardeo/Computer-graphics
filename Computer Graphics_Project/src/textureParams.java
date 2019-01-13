@@ -4,7 +4,7 @@
 //
 //  Created by Joe Geigel on 1/23/13.
 //
-//  Contributor:  Kapil Dole
+//  Contributor:  Onkar Deorukhkar
 //
 //  Simple class for setting up the textures for the textures
 //  assignment.
