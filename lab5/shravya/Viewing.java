@@ -8,7 +8,7 @@
 //  Simple class for setting up the viewing and projection transforms
 //  for the Transformation Assignment.
 //
-//  Contributor:  YOUR_NAME_HERE
+//  Contributor:  Onkar Deorukhkar
 //
 
 import javax.media.opengl.*;
